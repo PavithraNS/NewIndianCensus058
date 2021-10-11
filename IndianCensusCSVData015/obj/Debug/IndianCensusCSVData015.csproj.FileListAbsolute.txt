@@ -1,0 +1,7 @@
+C:\Users\Pavithra N S\source\repos\IndianCensusCSVData015\IndianCensusCSVData015\bin\Debug\IndianCensusCSVData015.exe.config
+C:\Users\Pavithra N S\source\repos\IndianCensusCSVData015\IndianCensusCSVData015\bin\Debug\IndianCensusCSVData015.exe
+C:\Users\Pavithra N S\source\repos\IndianCensusCSVData015\IndianCensusCSVData015\bin\Debug\IndianCensusCSVData015.pdb
+C:\Users\Pavithra N S\source\repos\IndianCensusCSVData015\IndianCensusCSVData015\obj\Debug\IndianCensusCSVData015.csproj.CoreCompileInputs.cache
+C:\Users\Pavithra N S\source\repos\IndianCensusCSVData015\IndianCensusCSVData015\obj\Debug\IndianCensusCSVData015.exe
+C:\Users\Pavithra N S\source\repos\IndianCensusCSVData015\IndianCensusCSVData015\obj\Debug\IndianCensusCSVData015.pdb
+C:\Users\Pavithra N S\source\repos\IndianCensusCSVData015\IndianCensusCSVData015\obj\Debug\IndianCensusCSVData015.csprojAssemblyReference.cache
